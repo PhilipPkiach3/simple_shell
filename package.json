@@ -1,7 +1,7 @@
 {
-  "name": "simple-shell-marketing",
+  "name": "whatsapp-world-messaging",
   "private": true,
-  "version": "0.0.0",
+  "version": "90.50.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
